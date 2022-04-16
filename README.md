@@ -6,3 +6,5 @@ Dosen   :AGUNG NUGROHO,S.Kom.,M.Kom
 
 Persiapan membuat dokumen HTML dengan nama file lab_javascript.html seperti berikut.
 
+ ![Gambar](CD1.PNG)
+ ![Gambar](PM1.PNG)
